@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Best Unit Converter</string>
+    <string name="to">TO</string>
+    <string name="value">VALUE</string>
+    <string name="from">FROM</string>
+    <string name="result">RESULT</string>
+    <string name="calculate">Calculate</string>
+</resources>
